@@ -1,2 +1,7 @@
 Este es el temoral uno
+<<<<<<< HEAD
 Rock and roll confilgi cetodestede des git 
+=======
+Linea desde github 
+>>>>>>> b10d4b2c1a73266815a2707687faaf13f37313c0
+popopoppoo
